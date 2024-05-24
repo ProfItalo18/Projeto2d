@@ -1,0 +1,10 @@
+:root{
+    --titulo-principal:#FFFF00;
+    --cor-fundo:#191970;
+    --texto:#0000;
+    }
+
+    body{
+        background-color: var(--cor-fundo);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
