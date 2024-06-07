@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 :root{
-    --titulo-principal:#FFFF00;
-    --cor-fundo:#191970;
-    --texto:#0000;
+   --conteudo-principal:#000080;
+   --titulo-principal:#FFFAFA;
+   --botoes:#FFD700;
+   --aba-texto:
     }
 
     body{
