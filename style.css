@@ -1,12 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
-:root{
+:root{/*cardapio de cores*/
    --conteudo-principal:#000080;
    --titulo-principal:#FFFAFA;
    --botoes:#FFD700;
-   --aba-texto:
-    }
+   --cor-fundo: #54548e;
+}
 
     body{
         background-color: var(--cor-fundo);
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .conteudo-principal{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 1200px;
+        width: 100%;
+        margin: 0 auto;
     }
